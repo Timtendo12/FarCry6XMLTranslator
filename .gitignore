@@ -346,3 +346,6 @@ modules.xml
 
 ### WebStorm+iml Patch ###
 # Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
+
+### Data ###
+src/files/config.json
